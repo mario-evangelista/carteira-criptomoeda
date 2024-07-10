@@ -15,7 +15,7 @@ Este script Node.js simples e seguro gera carteiras Bitcoin para a rede de teste
 2. **Instalação:** Clone este repositório e instale as dependências:
 
    ```bash
-   git clone https://github.com/seu-usuario/gerador-carteira-bitcoin.git
+   git clone https://github.com/mario-evangelista/carteira-criptomoeda.git
    cd gerador-carteira-bitcoin
    npm install
    ```
